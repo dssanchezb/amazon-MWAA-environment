@@ -1,0 +1,7 @@
+venv
+logs/*
+opgenie
+*/__pycache__/
+.venv/
+docs
+.DS_Store

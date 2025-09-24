@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+apache-airflow = "==2.7.2"
+apache-airflow-providers-amazon = "==8.1.0"
+apache-airflow-providers-common-sql = "*"
+apache-airflow-providers-ftp = "*"
+apache-airflow-providers-http = "*"
+apache-airflow-providers-imap = "*"
+apache-airflow-providers-opsgenie = "*"
+apache-airflow-providers-slack = "*"
+apache-airflow-providers-sqlite = "*"
+apache-airflow-providers-ssh = "*"
+pylint = "*"
+pylint-airflow = "*"
+pytest = "*"
+pytest-airflow = "*"
+pylint-nequi-airflow = {path = "./linters/pylint_nequi_airflow-0.1.dev1+g8406549.d20240119-py3-none-any.whl"}
+podman-compose = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
