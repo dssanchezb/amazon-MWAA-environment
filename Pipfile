@@ -18,7 +18,6 @@ pylint = "*"
 pylint-airflow = "*"
 pytest = "*"
 pytest-airflow = "*"
-pylint-nequi-airflow = {path = "./linters/pylint_nequi_airflow-0.1.dev1+g8406549.d20240119-py3-none-any.whl"}
 podman-compose = "*"
 
 [dev-packages]
