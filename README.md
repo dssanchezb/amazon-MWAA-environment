@@ -21,9 +21,7 @@ The project includes:
 ### Steps to Set Up
 
 1. Clone the repository:
-   ```
-   git clone git@github.com:ejguerra_nequi/amazon-MWAA-environment.git
-   cd amazon-MWAA-environment/
+   ```   cd amazon-MWAA-environment/
    ```
 
 2. Install [pipenv](https://pipenv.pypa.io/en/latest/):

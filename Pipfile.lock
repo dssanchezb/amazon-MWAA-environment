@@ -2029,12 +2029,6 @@
             "index": "pypi",
             "version": "==0.1.0a1"
         },
-        "pylint-nequi-airflow": {
-            "hashes": [
-                "sha256:666d8072a0af9aa4f38eb0069e80f931bedac5ba814f66dffaeebb769b731d5a"
-            ],
-            "path": "./linters/pylint_nequi_airflow-0.1.dev1+g8406549.d20240119-py3-none-any.whl"
-        },
         "pynacl": {
             "hashes": [
                 "sha256:06b8f6fa7f5de8d5d2f7573fe8c863c051225a27b61e6860fd047b1775807858",
